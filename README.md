@@ -1,5 +1,5 @@
 
-# Bilgisayarla Görü – Ödev 3  
+# Bilgisayarla Görü 
 **Nokta İşlemleri · Histogram Analizi · Kontrast Germe · Histogram Eşitleme · Gamma Düzeltme**
 
 Bu çalışma, üç farklı gri seviye görüntü üzerinde temel görüntü iyileştirme tekniklerinin uygulanması ve karşılaştırılması üzerine hazırlanmıştır. Amaç, görüntü parlaklık–kontrast yapısını anlamak, histogram tabanlı analizler yardımıyla ton dağılımını incelemek ve özellikle karanlık/gölge bölgelerde detay görünürlüğünü artırmaktır.
